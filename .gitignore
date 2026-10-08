@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+.tools/
+build/
+.build-cache/
+dist/
+.data/
+/MI-BCI*.spec
